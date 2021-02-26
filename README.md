@@ -15,12 +15,11 @@
 - 📫 How to reach me: [admin@marjc.ch](mailto:admin@marjc.ch)
 - 😁 Pronouns: JC
 - ⚡ Fun fact: Learn to code is reaaaally amazing!
-- 
-<!--
+
 ### Open source work stats 💻
 [![MarJC5's github stats](https://github-readme-stats.vercel.app/api?username=MarJC5&theme=vue-dark&show_icons=true)](https://github.com/MarJC5)
--->
 
+<!--
 ### Top langs stats 💻
 [![MarJC5's top langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarJC5&layout=compact&theme=graywhite)](https://github.com/MarJC5)
-
+-->
