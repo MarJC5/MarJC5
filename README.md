@@ -17,4 +17,4 @@
 - ⚡ Fun fact: Learn to code is reaaaally amazing!
 
 ### Open source work stats 💻
-[![MarJC5's github stats](https://github-readme-stats.vercel.app/api?username=MarJC5&theme=tokyonight&show_icons=true)](https://github.com/MarJC5)
+[![MarJC5's github stats](https://github-readme-stats.vercel.app/api?username=MarJC5&theme=vue-dark&show_icons=true)](https://github.com/MarJC5)
