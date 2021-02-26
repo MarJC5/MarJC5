@@ -8,8 +8,6 @@
                                                 
 ```
 
-[![MarJC5's github stats](https://github-readme-stats.vercel.app/api?username=MarJC5&theme=tokyonight&show_icons=true)](https://github.com/MarJC5)
-
 **Here are some ideas to get you started:**
 
 - 🔭 I’m currently working at [Swisscom AG](https://www.swisscom.ch/en/about.html) in delegation at [Nestle SA](https://www.nestle.ch/fr#) as ICT support specialist
@@ -17,3 +15,5 @@
 - 📫 How to reach me: [admin@marjc.ch](mailto:admin@marjc.ch)
 - 😄 Pronouns: JC
 - ⚡ Fun fact: Learn to code is reaaaally amazing!
+
+[![MarJC5's github stats](https://github-readme-stats.vercel.app/api?username=MarJC5&theme=tokyonight&show_icons=true)](https://github.com/MarJC5)
