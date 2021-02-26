@@ -8,7 +8,7 @@
                                                 
 ```
 
-**Here are some ideas to get you started:**
+### About me
 
 - 🔭 I’m currently working at [Swisscom AG](https://www.swisscom.ch/en/about.html) in delegation at [Nestle SA](https://www.nestle.ch/fr#) as ICT support specialist
 - 🌱 I’m currently learning [C](https://en.wikipedia.org/wiki/C_(programming_language)),[Shell](https://en.wikipedia.org/wiki/Shell_script) and [React](https://reactjs.org/)
