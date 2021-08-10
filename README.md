@@ -16,9 +16,7 @@
 - ⚡ Fun fact: Learn to code is reaaaally amazing!
 
 ### 42 Lausanne 💻
-[![jmartin's 42 stats](https://badge42.herokuapp.com/api/stats/jmartin?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![jmartin's 42 stats](https://badge42.herokuapp.com/api/stats/jmartin)](https://github.com/JaeSeoKim/badge42)
 
-<!--
 ### Open source work stats 💻
 [![MarJC5's github stats](https://github-readme-stats.vercel.app/api?username=MarJC5&theme=vue-dark&show_icons=true)](https://github.com/MarJC5)
--->
