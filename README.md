@@ -1,11 +1,6 @@
 ### Hi there 👋🏾
 ```php
 const about = {
-    type:"Human",
-    firstName: "Jean-Christio",
-    lastName: "Martin",
-    favColor:"#f9ca24",
-    email: "admin@marjc.ch",
     currently : "Student at 42 Lausanne",
     skills: [
     	"JavaScript",
