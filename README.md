@@ -1,5 +1,4 @@
 ### Hi there 👋🏾
-![](https://komarev.com/ghpvc/?username=MarJC5&color=lightgrey&style=flat-square)
 
 ```js
 let about = {
