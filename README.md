@@ -1,8 +1,8 @@
 ### Hi there 👋🏾
 ![](https://komarev.com/ghpvc/?username=MarJC5&color=lightgrey&style=flat-square)
 
-```php
-const about = {
+```js
+let about = {
     currently : "Student at 42 Lausanne",
     skills: [
     	"JavaScript",
