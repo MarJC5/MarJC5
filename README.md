@@ -1,4 +1,6 @@
 ### Hi there 👋🏾
+![](https://komarev.com/ghpvc/?username=MarJC5&color=lightgrey&style=flat-square)
+
 ```php
 const about = {
     currently : "Student at 42 Lausanne",
