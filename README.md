@@ -5,12 +5,13 @@ let about = {
     currently : "Student at 42 Lausanne",
     skills: [
     	"JavaScript",
-        "C",
+        "C, C++",
         "Shell",
-        "PHP",
+        "PHP, Laravel",
         "Ruby, Ruby on rails",
         "HTML5",
-        "CSS3/SASS"
+        "CSS3/SASS",
+        "Docker",
     ],
     hobby: [
     	"Travel",
